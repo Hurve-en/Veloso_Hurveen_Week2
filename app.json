@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Hurve-en",
-    "slug": "Hurve-en",
+    "name": "hurve-en",
+    "slug": "hurve-en",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
